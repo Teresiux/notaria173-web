@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.notaria173edomex.com.mx/sitemap.xml
